@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.log
+.env
+venv/
+env/
+models/
+*.gguf
+data/pdfs/
+vectorstore/
+*.pyd
+*.dll
+*.lib
+*.so
+.DS_Store
+.ipynb_checkpoints/
+streamlit_app_cache/
